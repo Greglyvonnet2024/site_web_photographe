@@ -1,0 +1,101 @@
+
+/*************** GLOBAL ***************/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+
+
+
+/*************** END GLOBAL ***************/
+
+
+/*************** HEADER ***************/
+
+h1{
+    color: rgb(250, 250, 250);
+
+  font-family: "Bodoni Moda SC", serif;
+  font-optical-sizing: auto;
+
+    /* Font family possible >>> Bodoni Moda SC;  */
+
+    background-color: rgb(40, 241, 174);
+}
+
+
+/*************** END HEADER ***************/
+
+
+/*************** NAV ***************/
+
+/*************** END NAV ***************
+
+/*************** MAIN ***************/
+
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+
+/*************** END MAIN ***************/
+
+/*************** ASIDE LEFT ***************/
+
+/*************** END ASIDE LEFT***************/
+
+/*************** SECTION 1 ***************/
+
+/*************** END SECTION 1 ***************/
+
+/*************** SECTION 2 ***************/
+
+/*************** END SECTION 2 ***************/
+
+/*************** SECTION 3 ***************/
+
+/*************** END SECTION 3 ***************/
+
+/*************** ASIDE RIGHT ***************/
+
+/*************** END ASIDE RIGHT ***************/
+
+/*************** FOOTER ***************/
+
+/*************** END FOOTER ***************/
+
+/*************** MEDIAQUERY ***************/
+
+/* @media (max-width: 1400px) {
+  header {
+    background-color: #e68f15;
+  }
+  header h2 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 960px) {
+  header {
+    background-color: #a6f28b;
+  }
+  .logo1 {
+    display: none;
+  }
+  .logo2 {
+    display: inline;
+  }
+  header h2 {
+    font-family: "Roboto-Black";
+  }
+} */
+
+/*************** END MEDIAQUERY ***************/
